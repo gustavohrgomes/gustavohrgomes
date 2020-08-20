@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Gustavo, I am 23 years old and I am in the path to become a fullstack web developer. 😄
+
+Since very early in love with technology, but recently inserted in this wonderful world (sometimes not so much kk) of web development.
+
+[![Linkedin Badge](https://img.shields.io/badge/Gustavo_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavohrgomes/)](https://www.linkedin.com/in/gustavohrgomes/)
+
+
+
 <!--
 **gustavohrgomes/gustavohrgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
