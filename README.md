@@ -1,10 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Gustavo, I am 23 years old and I am in the path to become a fullstack web developer. 😄
+My name is Gustavo, I am 23 years old, living in Araraquara-SP, Brazil.
 
-Since very early in love with technology, but recently inserted in this wonderful world (sometimes not so much kk) of web development.
+### I’m currently working on... 🔭
+I'm a Fullstack Developer, working with .Net ecosystem, mostly C#, .Net Framework MVC and .Net Core.
+When I'm not at work, I'm studying about the technologies that we use on my job and about the javascript ecosystem, wich includes ReactJS, React-Native and NodeJS. 
+
+###   What I've been collaborating 🚀
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=gustavohrgomes&amp;show_icons=true&theme=dracula">
+</p> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrgomes&layout=compact&theme=dracula)
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/Gustavo_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavohrgomes/)](https://www.linkedin.com/in/gustavohrgomes/)
+
 
 
 
