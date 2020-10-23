@@ -1,21 +1,52 @@
-# Hi there 👋
+# Hello there 😃👋
 
 My name is Gustavo, I am 23 years old, living in Araraquara-SP, Brazil.
 
-### I’m currently working on... 🔭
+### About me 🔭
 I'm a Fullstack Developer, working with .Net ecosystem, mostly C#, .Net Framework MVC and .Net Core.
 When I'm not at work, I'm studying about the technologies that we use on my job and about the javascript ecosystem, wich includes ReactJS, React-Native and NodeJS. 
 
-###   What I've been collaborating 🚀
+### You can find me on... 🔎
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=gustavohrgomes&amp;show_icons=true&theme=dracula">
-</p> 
+<a href="https://linkedin.com/in/gustavohrgomes">
+  <img src="https://img.shields.io/badge/Follow%20me%20-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin Follow">
+</a> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrgomes&layout=compact&theme=dracula)
+<a href="https://twitter.com/gustavohrgomes_">
+		<img  src="https://img.shields.io/twitter/follow/gustavohrgomes_?color=%231DA1F2&amp;label=Follow%20me&amp;logo=Twitter&amp;style=for-the-badge" alt="Twitter Follow">
+</a> 
+
+<a href="https://instagram.com/pablohdev">
+  <img src="https://img.shields.io/badge/Follow%20me%20-black?style=for-the-badge&logo=Instagram&logoColor=%231DA1F2" alt="Instagram Follow">
+</a>
+
+### What I've been collaborating 🚀
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"      
+      height="185"
+      src="https://github-readme-stats.vercel.app/api?username=gustavohrgomes&theme=synthwave"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      align="center"
+      height="185"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrgomes&hide=html&layout=compact&theme=synthwave"
+    />
+  </a>
+</p>
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/Gustavo_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavohrgomes/)](https://www.linkedin.com/in/gustavohrgomes/)
+
+
+
+
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/Gustavo_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavohrgomes/)](https://www.linkedin.com/in/gustavohrgomes/) -->
 
 
 
