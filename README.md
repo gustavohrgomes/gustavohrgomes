@@ -26,14 +26,14 @@ When I'm not at work, I'm studying about the technologies that we use on my job 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"      
-      height="185"
+      height="165"
       src="https://github-readme-stats.vercel.app/api?username=gustavohrgomes&theme=synthwave"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       align="center"
-      height="185"
+      height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrgomes&hide=html&layout=compact&theme=synthwave"
     />
   </a>
