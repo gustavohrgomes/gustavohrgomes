@@ -3,8 +3,11 @@
 My name is Gustavo, I am 23 years old, living in Araraquara-SP, Brazil.
 
 ### About me 🔭
-I'm a Fullstack Developer, working with .Net ecosystem, mostly C#, .Net Framework MVC and .Net Core.
-When I'm not at work, I'm studying about the technologies that we use on my job and about the javascript ecosystem, wich includes ReactJS, React-Native and NodeJS. 
+I'm a Junior Software Developer.
+
+In the company that I work for, we mostly use .Net Core in the backend, Angular in the frontend, and React Native for mobile apps.
+
+When I'm not working, I'm studying about the technologies that we use on my job and about the javascript ecosystem, wich includes ReactJS, React Native and NodeJS.
 
 ### You can find me on... 🔎
 
@@ -16,7 +19,7 @@ When I'm not at work, I'm studying about the technologies that we use on my job 
 		<img  src="https://img.shields.io/twitter/follow/gustavohrgomes_?color=%231DA1F2&amp;label=Follow%20me&amp;logo=Twitter&amp;style=for-the-badge" alt="Twitter Follow">
 </a> 
 
-<a href="https://instagram.com/pablohdev">
+<a href="https://instagram.com/gustavohrgomes_">
   <img src="https://img.shields.io/badge/Follow%20me%20-black?style=for-the-badge&logo=Instagram&logoColor=%231DA1F2" alt="Instagram Follow">
 </a>
 
