@@ -3,11 +3,10 @@
 My name is Gustavo, I am 24 years old, living in Araraquara-SP, Brazil.
 
 ### About me 🔭
-I'm a Junior Software Developer.
 
-In the company that I work for, we mostly use .Net Core in the backend, Angular in the frontend, and React Native for mobile apps.
+Nowadays, I'm working as a Backend Developer using the .NET plataform. I also have experience with Relational Databases, like SQL Server, Postgres and a little bit of MySQL, ORM (Entity Framework core), ReactJS, React-Native and Angular.
 
-When I'm not working, I'm studying about the technologies that we use on my job and about the javascript ecosystem, wich includes ReactJS, React Native and NodeJS.
+In my daily routine, I'm always studying about the technologies that I work with and in addition, I also study architectural concepts, code design and best practices, such as SOLID, Clean Code and Domain Driven Design.
 
 ### You can find me on... 🔎
 
