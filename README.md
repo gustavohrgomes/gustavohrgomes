@@ -1,12 +1,10 @@
 # Hello there 😃👋
 
-My name is Gustavo, I am 26 years old, living in Araraquara-SP, Brazil.
+My name is Gustavo, I am 26 years old, I'm a software engineer with a passion for coding and developing innovative solutions that make a difference. I have been working in the software development field for a couple of years now and have experience working with various technologies. Currently, my focus is on C#, ASP.NET, .NET 6 and above.
 
-### About me 🔭
+As a software engineer, I enjoy solving complex problems and building applications that meet the needs of end-users. I am a curious person who loves to learn new things and apply my knowledge to my work. Although my expertise lies in backend development using .NET, I also have some experience with front-end using React and Angular, and mobile development with React Native. However, I'm always looking to expand my knowledge in these areas and learn any necessary technologies to deliver quality products.
 
-Nowadays, I'm working as a Backend Developer using the .NET plataform. I also have experience with Relational Databases, like SQL Server, Postgres and a little bit of MySQL, ORM (Entity Framework core), ReactJS, React-Native and Angular.
-
-In my daily routine, I'm always studying about the technologies that I work with and in addition, I also study architectural concepts, code design and best practices, such as SOLID, Clean Code and Domain Driven Design.
+Throughout my career, I have collaborated with cross-functional teams to deliver quality products on time. I am a team player who values collaboration and open communication. I am comfortable working in an Agile environment and have experience using project management tools like Jira and Azure DevOps.
 
 ### You can find me on... 🔎
 
